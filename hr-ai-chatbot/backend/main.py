@@ -1,5 +1,5 @@
-from fastapi import FastAPI, HTTPException, Query # type: ignore
-from pydantic import BaseModel # type: ignore
+from fastapi import FastAPI, HTTPException, Query 
+from pydantic import BaseModel 
 from typing import List
 import json
 
