@@ -75,3 +75,8 @@ async def employee_search(q: str = Query(..., min_length=1)):
     if not results:
         raise HTTPException(status_code=404, detail="No employees found matching the query.")
     return results
+
+ @app.get("/")
+async def root():
+    return {"status": "backend is running"}
+
