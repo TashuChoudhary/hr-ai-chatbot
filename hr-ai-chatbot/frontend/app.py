@@ -14,7 +14,7 @@ if st.button("Ask"):
         with st.spinner("Fetching answers..."):
             try:
                 response = requests.post(
-                    "http://localhost:8000/chat",
+                    "http://backend:8000/chat",
                     json={"query": query, "top_k": top_k},
                     timeout=10,
                 )
