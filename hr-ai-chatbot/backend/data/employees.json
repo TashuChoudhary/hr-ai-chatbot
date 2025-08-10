@@ -1,0 +1,108 @@
+[
+    {
+      "name": "Aarav Sharma",
+      "skills": ["Python", "Django", "AWS"],
+      "experience_years": 4,
+      "past_projects": ["E-commerce Platform", "Healthcare Data API"],
+      "availability": "available"
+    },
+    {
+      "name": "Isha Patel",
+      "skills": ["React", "Node.js", "Docker"],
+      "experience_years": 3,
+      "past_projects": ["Chat Application", "Banking Dashboard"],
+      "availability": "not avaliable"
+    },
+    {
+      "name": "Rohan Verma",
+      "skills": ["Java", "Spring Boot", "Kubernetes"],
+      "experience_years": 5,
+      "past_projects": ["Logistics Tracker", "Hospital Management System"],
+      "availability": "available"
+    },
+    {
+      "name": "Neha Singh",
+      "skills": ["Python", "Flask", "PostgreSQL"],
+      "experience_years": 2,
+      "past_projects": ["Inventory System", "IoT Device API"],
+      "availability": "available"
+    },
+    {
+      "name": "Karan Mehta",
+      "skills": ["React Native", "Firebase", "GraphQL"],
+      "experience_years": 3,
+      "past_projects": ["Food Delivery App", "Fitness Tracker"],
+      "availability": "not avaliable"
+    },
+    {
+      "name": "Priya Das",
+      "skills": ["Python", "Pandas", "Machine Learning"],
+      "experience_years": 4,
+      "past_projects": ["Fraud Detection System", "Healthcare Analytics"],
+      "availability": "available"
+    },
+    {
+      "name": "Aniket Roy",
+      "skills": ["AWS", "Docker", "Terraform"],
+      "experience_years": 6,
+      "past_projects": ["Cloud Migration", "CI/CD Automation"],
+      "availability": "not avaliable"
+    },
+    {
+      "name": "Simran Kaur",
+      "skills": ["UI/UX", "Figma", "HTML", "CSS", "JavaScript"],
+      "experience_years": 3,
+      "past_projects": ["Portfolio Website", "Travel Booking UI"],
+      "availability": "available"
+    },
+    {
+      "name": "Aditya Nair",
+      "skills": ["Go", "Microservices", "Kubernetes"],
+      "experience_years": 5,
+      "past_projects": ["Payment Gateway", "Real-time Analytics Platform"],
+      "availability": "not avaliable"
+    },
+    {
+      "name": "Tanvi Joshi",
+      "skills": ["React", "TypeScript", "Node.js"],
+      "experience_years": 4,
+      "past_projects": ["CRM Dashboard", "E-learning Platform"],
+      "availability": "available"
+    },
+    {
+      "name": "Vikram Kapoor",
+      "skills": ["C#", ".NET", "Azure"],
+      "experience_years": 7,
+      "past_projects": ["ERP System", "Hospital Billing Software"],
+      "availability": "available"
+    },
+    {
+      "name": "Sneha Gupta",
+      "skills": ["Python", "FastAPI", "MongoDB"],
+      "experience_years": 3,
+      "past_projects": ["AI Chatbot", "Survey Tool"],
+      "availability": "available"
+    },
+    {
+      "name": "Rahul Choudhary",
+      "skills": ["PHP", "Laravel", "MySQL"],
+      "experience_years": 4,
+      "past_projects": ["School Management System", "E-commerce API"],
+      "availability": "available"
+    },
+    {
+      "name": "Meera Iyer",
+      "skills": ["JavaScript", "Vue.js", "Node.js"],
+      "experience_years": 2,
+      "past_projects": ["Real Estate Listing", "Blog CMS"],
+      "availability": "not avaliable"
+    },
+    {
+      "name": "Arjun Malhotra",
+      "skills": ["Python", "AWS", "Docker"],
+      "experience_years": 5,
+      "past_projects": ["Healthcare AI Assistant", "DevOps Automation"],
+      "availability": "available"
+    }
+  ]
+  
